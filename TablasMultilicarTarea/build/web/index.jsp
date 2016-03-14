@@ -7,6 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
@@ -53,4 +54,7 @@
             <%} %>
        </table>
     </body>
+=======
+    
+>>>>>>> jorgeArtLocal
 </html>
